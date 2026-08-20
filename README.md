@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF00CC,25:9D00FF,50:6A00F4,75:00C2FF,100:00F0FF&height=260&section=header&text=MARCOS%20MENDES&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=%3C_%20fullstack%20developer%20//%20front-end%20focused%20_%3E&descAlignY=58&descSize=17&descColor=E0C3FC&animation=fadeIn" />
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/34/8e/2c/348e2c524ecaafa6f235e7256bc80a3e.jpg" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=15&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=550&lines=building+interfaces...;always+learning;UX%2FUI+%2B+code+%2B+pixels" alt="Typing SVG" />
